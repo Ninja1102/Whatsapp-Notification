@@ -22,4 +22,4 @@ const sendMessage = async (to, message) => {
 };
 
 // Example usage
-sendMessage('8608036495', '🚀 Hello from my futuristic website with the correct token!');
+sendMessage('1234567890', '🚀 Hello from my futuristic website with the correct token!');
